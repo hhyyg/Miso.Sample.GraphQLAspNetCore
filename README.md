@@ -1,5 +1,3 @@
-﻿GraphQL Sample for ASP.NET Core
-
 - ConsoleApp1: Sample using GraphQL for .NET
 - GraphQLSampleWeb: Sample for ASP.NET Core
 
